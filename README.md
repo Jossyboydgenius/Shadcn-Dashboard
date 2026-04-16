@@ -1,2 +1,3 @@
 ## Shadcn-Dashboard
-* admin Dashboard 
+* Admin Dashboard
+* Management
